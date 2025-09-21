@@ -1,3 +1,4 @@
+![logo](https://github.com/Vinaysingh117/Vinaysingh117-/blob/main/Picsart_25-09-21_02-34-09-367.png)
 <h1 align="center">Hi 👋, I'm VINAY CHAUHAN</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
@@ -12,7 +13,7 @@
 - ⚡ Fun fact **I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">logo
 <a href="https://instagram.com/vinay_singh__rajput_117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_singh__rajput_117" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="117" height="30" width="40" /></a>
 </p>
